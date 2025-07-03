@@ -47,6 +47,10 @@ Make sure to allow WebSocket if prompted by your browser or network.
   Templating Engine: EJS
   Real-Time Communication: Socket.io
 
+
+Project Deployement Link:
+  https://realtime-tracker-m0jn.onrender.com/
+
 🧑‍💻 Author
 Vibhas Pandey
 
